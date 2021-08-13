@@ -1,0 +1,10 @@
+data/*
+!data/.gitkeep
+
+projects/backend/*
+!projects/backend/.gitkeep
+
+projects/frontend/*
+!projects/frontend/.gitkeep
+
+.idea
